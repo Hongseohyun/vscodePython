@@ -1,5 +1,5 @@
 def adder(a,b):
-     a+b
+    print(a+b)
         return
 
 adder(1,2)
